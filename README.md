@@ -1,5 +1,6 @@
 # Summarize plain text files
 ## A python script to summarize a text file
+## If you hav a collection of PDF files then use the shell script after running: pip install pdfminer
 
 ## Usage:
 python3 SummarizeText.py
