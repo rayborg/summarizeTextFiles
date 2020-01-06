@@ -1,4 +1,4 @@
-# summarizeTextFiles
+# Summarize plain text files
 ## A python script to summarize a text file
 
 ## Usage:
