@@ -90,14 +90,11 @@ if __name__ == '__main__':
             summary = summarize("./text/"+filename)
             print(summary)
             print("\n\n")
-            
-            
+
             continue
         else:
             continue    
             
-        
-   
     #summary = summarize()
     
     #Single example
